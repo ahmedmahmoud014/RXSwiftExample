@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'RXSwiftExample' do
+pod 'RxSwift',    '~> 4.0'
+pod 'RxCocoa',    '~> 4.0'
+pod 'IQKeyboardManagerSwift'
+pod 'RxDataSources', '~> 3.0'
+
+
+
+end
